@@ -1,1 +1,25 @@
+#03.11.2026
+## Class Notes:
+- Active buzzer: produces sound when connected to power, has a built-in oscillator and fixed pitch
+- Passive buzzer: needs an external signal to produce sound, different frequencies can be used to play differnet notes
+- Ultrasonic distance sensor: uses sound waves to measure the distamce to an object through sending out signals and measuring the time until the echo returns
+- Similar sensors: infrared sensor and PIR(passive infrared) sensorwhich detects thermal radiation (heat) from moving bodies 
+- Push button: a digital input that changes its state when pressed
 
+Exercise 1: Passive Buzzer
+- connect a passive buzzer to the Arduino
+- use tone() to play different frequencies
+- combine the buzzer with Serial.Read to control the sound through serial input
+
+Exercise 2: Play Melody
+- 
+
+Exercise 3: Ultrasonic distance sensor 
+- ultrasonic sensor measures the distance to an object
+- read sensor values and explored its detection range
+
+Exercise 4: Button
+- 
+
+Exercise 5: Instrument
+- 
