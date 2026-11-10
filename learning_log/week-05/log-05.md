@@ -28,3 +28,4 @@
 - connect two servos to together, with one controlling the X-axis and the other the Y-axis
 - use the joystick to control both servos
 - press the joystick button to return both servos to the center position
+https://github.com/user-attachments/assets/443f15e3-5363-4d19-9634-5227d8711d1a
