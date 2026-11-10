@@ -15,7 +15,8 @@
 - use analogRead() to read the potentiometer value
 - use map() to convert the reading into an angle for the servo
 - control the servo's position by turning the potentiometer
-![Uploading servo+potentiometer.jpg…]()
+<img width="2647" height="3342" alt="servopotentiometer" src="https://github.com/user-attachments/assets/37138fbe-e258-4c61-95f2-87fa6e7b5134" />
+
 
 
 ### Exercise 3: Joystick
