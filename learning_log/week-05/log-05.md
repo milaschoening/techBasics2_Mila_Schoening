@@ -8,8 +8,7 @@
 
 ### Exercise 1: Control a Servo Motor
 - connect and control a servo motor using the Arduino Servo Library
-
-
+<img width="1179" height="1361" alt="servomotor" src="https://github.com/user-attachments/assets/88602aa6-90c7-4301-83e1-814fa7e6ca59" />
   
 ### Exercise 2: Control a Servo with a potentiometer
 - use analogRead() to read the potentiometer value
