@@ -8,11 +8,15 @@
 
 ### Exercise 1: Control a Servo Motor
 - connect and control a servo motor using the Arduino Servo Library
+
+
   
 ### Exercise 2: Control a Servo with a potentiometer
 - use analogRead() to read the potentiometer value
 - use map() to convert the reading into an angle for the servo
 - control the servo's position by turning the potentiometer
+![Uploading servo+potentiometer.jpg…]()
+
 
 ### Exercise 3: Joystick
 - read the analog values from A0 and A1, and the digital value from pin 2
